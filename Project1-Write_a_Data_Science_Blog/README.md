@@ -5,7 +5,7 @@ This project is about solving a data science project using the CRISP-DM framewor
 The overall objective is to analyze Airbnb Bostons listings data and find answers to the questions below :
   1. How do listing prices change across locations and time ?
   2. What are the main drivers of listing price ?
-  3. What features of a listings influence customer satisfaction the most ?
+  3. Which features of a listings influence customer satisfaction the most ?
 
 <h2>Data Description</h2>
 
@@ -34,8 +34,12 @@ This repo contains data and jupyter notebook for all analysis done for this data
 * November to March is the off-season for tourism and business picks up and prices increase April onwards with July to octover being the peak season. 
 
 <h3> What are the main drivers of listing price ?</h3>
+* Main drivers of price are room type, cleaning fee, no. of bedrooms, no. of beds, no. of bathrooms and location.
+* Amenities like TV, cable, heating, internet, pets allowed on property and elevator infleunce listing price.
 
-
+<h3> Which features of a listings influence customer satisfaction the most ?
+* Cleanliness, value for money, listing description online matches real listing, communication with host, check-in experience are the top factors that influence customer satisfaction.
+* Amenities that seem to influence customer satisfaction are Internet, Washer, Dryer, Cable, Gym and Elevator
 
 
 
