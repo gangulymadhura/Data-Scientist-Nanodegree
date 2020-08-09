@@ -38,7 +38,7 @@ This repo contains data and jupyter notebook for all analysis done for this data
 * Main drivers of price are room type, cleaning fee, no. of bedrooms, no. of beds, no. of bathrooms and location.
 * Amenities like TV, cable, heating, internet, pets allowed on property and elevator infleunce listing price.
 
-<h3> Which features of a listings influence customer satisfaction the most ?
+<h3> Which features of a listings influence customer satisfaction the most ?</h3>
   
 * Cleanliness, value for money, listing description online matches real listing, communication with host, check-in experience are the top factors that influence customer satisfaction.
 * Amenities that seem to influence customer satisfaction are Internet, Washer, Dryer, Cable, Gym and Elevator
