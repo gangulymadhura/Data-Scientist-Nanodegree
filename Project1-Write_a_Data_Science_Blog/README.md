@@ -7,8 +7,9 @@ The overall objective is to analyze Airbnb Bostons listings data and find answer
   2. What are the main drivers of listing price ?
   3. What features of a listings influence customer satisfaction the most ?
 
-Data Description
+<h2>Data Description<h2>
 These are 3 datasets from Airbnb Boston that have been analyzed :
+
 1. listings.csv — details on listing features like location, amenities and reviews
 2. calendar.csv — availability calendar of listings over a one year period
 3. reviews.csv — reviews posted by customers after their stay
