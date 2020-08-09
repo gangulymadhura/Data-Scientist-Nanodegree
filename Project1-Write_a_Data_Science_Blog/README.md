@@ -26,6 +26,19 @@ These dataset can be found [here](http://insideairbnb.com/get-the-data.html) as 
 * xgboost
 * sklearn
 
+<h2> Main steps of Analysis </h2>
+
+* Converting columns to appropriate data type
+* Missing value imputation
+* Categoical feature encoding
+* Analyzing univariate and bivariate plots to understand feature distributions and relationships
+* Built machine learning model that predicts price of a listing based on listing features like location, amenities and review scores
+* Built machine learning model that predicts review rating score of a listing based on listing features like location, amenities and price
+
+
+All these details can be found in this [notebook](https://github.com/maddyg/Data-Scientist-Nanodegree/blob/master/Project1-Write_a_Data_Science_Blog/Codes/Analyzing%20Airbnb%20Listings%20in%20Boston.ipynb)
+
+
 <h2>Key findings</h2>
 
 <h3>How do listing prices change across locations and time ?</h3>
@@ -42,6 +55,7 @@ These dataset can be found [here](http://insideairbnb.com/get-the-data.html) as 
   
 * Cleanliness, value for money, listing description online matches real listing, communication with host, check-in experience are the top factors that influence customer satisfaction.
 * Amenities that seem to influence customer satisfaction are Internet, Washer, Dryer, Cable, Gym and Elevator
+
 
 
 
