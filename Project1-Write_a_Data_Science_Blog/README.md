@@ -56,6 +56,8 @@ All these details can be found in this [notebook](https://github.com/maddyg/Data
 * Cleanliness, value for money, listing description online matches real listing, communication with host, check-in experience are the top factors that influence customer satisfaction.
 * Amenities that seem to influence customer satisfaction are Internet, Washer, Dryer, Cable, Gym and Elevator
 
+These are explained with vizualizations in the [blog](https://medium.com/@gangulym23/this-is-how-you-can-analyze-any-dataset-with-the-crisp-dm-framework-cc9353f4dabe).
+
 
 
 
