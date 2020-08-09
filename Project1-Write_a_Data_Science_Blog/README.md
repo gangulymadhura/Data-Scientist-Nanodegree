@@ -7,6 +7,8 @@ The overall objective is to analyze Airbnb Bostons listings data and find answer
   2. What are the main drivers of listing price ?
   3. Which features of a listings influence customer satisfaction the most ?
 
+This repo contains data and jupyter notebook for all analysis done for this data science blog [This is how you can analyze any dataset with the CRISP-DM framework](https://medium.com/@gangulym23/this-is-how-you-can-analyze-any-dataset-with-the-crisp-dm-framework-cc9353f4dabe) on Medium.
+
 <h2>Data Description</h2>
 
 These are 3 datasets from Airbnb Boston that have been analyzed :
@@ -23,8 +25,6 @@ These dataset can be found [here](http://insideairbnb.com/get-the-data.html) as 
 * matplotlib
 * xgboost
 * sklearn
-
-This repo contains data and jupyter notebook for all analysis done for this data science blog [This is how you can analyze any dataset with the CRISP-DM framework](https://medium.com/@gangulym23/this-is-how-you-can-analyze-any-dataset-with-the-crisp-dm-framework-cc9353f4dabe) on Medium.
 
 <h2>Key findings</h2>
 
