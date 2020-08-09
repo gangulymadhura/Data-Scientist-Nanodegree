@@ -1,0 +1,113 @@
+,col_type,missing_vals,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+id,int64,0,3585.0,3585,,,8440874.627615063,4500786.860724617,3353.0,4679319.0,8577620.0,12789527.0,14933461.0
+listing_url,object,0,3585,3585,https://www.airbnb.com/rooms/5726250,1,,,,,,,
+scrape_id,int64,0,3585.0,1,,,20160906204935.85,0.8516812922862722,20160906204935.0,20160906204935.0,20160906204935.0,20160906204935.0,20160906204935.0
+last_scraped,object,0,3585,1,2016-09-07,3585,,,,,,,
+name,object,0,3585,3504,Lux 2BR by Fenway w/WiFi,8,,,,,,,
+summary,object,143,3442,3113,"The unit is stylishly designed for comfort, value and convenience. Centrally located on the line Boston’s Back Bay and South End.",21,,,,,,,
+space,object,1057,2528,2268,"The studio's kitchenette comes equipped with a mini fridge, microwave, two plate stove top, toaster and coffee maker.  All units are fully furnished and accessorized with kitchenettes: Free Wireless Internet All stainless appliances Maple floor, cabinets Memoire Pedestal bathroom sinks Antique 3×6 tiling Italian track & floor lighting",17,,,,,,,
+description,object,0,3585,3423,"The unit is stylishly designed for comfort, value and convenience. Centrally located on the line Boston’s Back Bay and South End. The studio's kitchenette comes equipped with a mini fridge, microwave, two plate stove top, toaster and coffee maker.  All units are fully furnished and accessorized with kitchenettes: Free Wireless Internet All stainless appliances Maple floor, cabinets Memoire Pedestal bathroom sinks Antique 3×6 tiling Italian track & floor lighting Wireless internet, set of towels and linens provided upon arrival, flatware, silverware and cooking utensils, direct satellite TV, coin-op Laundry in the building. Parking: Public transportation is the suggested form of transportation as it is only less than a 5 minute walk to the Back Bay Station. There is primarily street parking reserved for Boston residents which you need a permit in order to use. Nearby garages:      Prudential Center Garage      800 Boylston Street      Boston, MA (PHONE NUMBER HIDDEN)      Copley Place P",7,,,,,,,
+experiences_offered,object,0,3585,1,none,3585,,,,,,,
+neighborhood_overview,object,1415,2170,1728,"Conveniently bordering the neighborhoods of the South End, Back Bay and Copley Square –  Steps to public transportation, the financial district, The Copley Mall, and Newbury Street.",21,,,,,,,
+notes,object,1975,1610,1269,"Although we do not allow pets in our apartment, this apartment is located at a residential property that allows pets and there may be pet owners in the building.",44,,,,,,,
+transit,object,1290,2295,1859,"These newly constructed, luxury apartments epitomize what it means to live well in one of Boston’s most eclectic and vibrant communities. An established neighborhood standout, the building’s apartments offer floor to ceiling windows with one of the most beautiful views of the Boston skyline. No matter what your preference, you’re within minutes of it all - Back Bay’s trendy shopping centers, Fenway’s endless entertainment, the best restaurants in Boston, and easy access to the Fenway T. The ease that comes with our 24 hour check in and concierge service, parking garage, as well as unparalleled on-site amenities makes this the only place to stay on your next trip to Boston!",26,,,,,,,
+access,object,1489,2096,1762,"You have access to the entire apartment, and all the fantastic amenities this building offers to its tenants.",48,,,,,,,
+interaction,object,1554,2031,1617,"Need more towels? A restaurant recommendation? Our guest experience team is just a phone call or email away, 24 hours a day. Otherwise, you’ve got the place all to yourself.",58,,,,,,,
+house_rules,object,1192,2393,1928,"House Rules 1. Check-in is 4 pm local time. If the unit is ready earlier, we’ll let you know. Check-out is normally 11 am local time, but we’d be happy to extend it as long as we don’t have a cleaning scheduled. Just let us know.  2. All bookings require a security deposit of at least $300, which will be refunded within 7 days of your check-out. 3. For security measures we require all guests to provide proof of identification through ID verification on our own website. In order to check in we'll need a photo of your ID.  4. Our cancellation policy is as shown on our ad and defined by the site you are booking through.  5. Don’t let $300 go up in smoke. There's no smoking allowed in any Flatbook and a $300 fine for breaking this rule.  6. Unfortunately we don’t allow pets in any of our apartments. 7. Unless you’re staying in one of our specialty apartments, we don’t allow parties or excessive noise. 8. If we find the place very messy, we have to charge an extra $40 for every extra hour o",44,,,,,,,
+thumbnail_url,object,599,2986,2986,https://a0.muscache.com/im/pictures/17730638/4f5395df_original.jpg?aki_policy=small,1,,,,,,,
+medium_url,object,599,2986,2986,https://a2.muscache.com/im/pictures/100453950/e6ce8471_original.jpg?aki_policy=medium,1,,,,,,,
+picture_url,object,0,3585,3585,https://a2.muscache.com/im/pictures/37c72b16-b024-4940-8dc5-138524cd23e7.jpg?aki_policy=large,1,,,,,,,
+xl_picture_url,object,599,2986,2986,https://a2.muscache.com/im/pictures/44644197/27d7d775_original.jpg?aki_policy=x_large,1,,,,,,,
+host_id,int64,0,3585.0,2181,,,24923107.451046024,22927809.87380084,4240.0,6103425.0,19280995.0,36221474.0,93854106.0
+host_url,object,0,3585,2181,https://www.airbnb.com/users/show/30283594,136,,,,,,,
+host_name,object,0,3585,1334,Kara,138,,,,,,,
+host_since,object,0,3585,1281,2015-03-30,137,,,,,,,
+host_location,object,11,3574,176,"Boston, Massachusetts, United States",2421,,,,,,,
+host_about,object,1309,2276,1240,"ABOUT US:
+
+SeamlessTransition is a full-service relocation agency.  
+
+SeamlessTransition offers short-term housing options to executives, medical professionals and leisure travelers looking to secure transitional housing in major cities throughout the United States. 
+
+We match an individual's or family's short-term housing needs and preferences with available and compatible housing inventory.
+
+Our goal is to find the best short-term accommodations at the best price in the best location to meet your housing needs and preferences.  
+
+No request is too large or too small.  It is our pleasure to serve you.
+
+We are available Monday through Friday, 8:30 AM to 5:00 PM (EST).
+
+Our Reservation Center closes at 3PM on Friday and will not reopen until Monday morning at 9AM.
+
+We observe all US Federal Holidays.  Kindly excuse our delay in response.
+",79,,,,,,,
+host_response_time,object,471,3114,4,within an hour,1384,,,,,,,
+host_response_rate,object,471,3114,52,100%,2072,,,,,,,
+host_acceptance_rate,object,471,3114,72,100%,1210,,,,,,,
+host_is_superhost,object,0,3585,2,f,3178,,,,,,,
+host_thumbnail_url,object,0,3585,2174,https://a2.muscache.com/im/users/30283594/profile_pic/1427748834/original.jpg?aki_policy=profile_small,136,,,,,,,
+host_picture_url,object,0,3585,2174,https://a2.muscache.com/im/users/30283594/profile_pic/1427748834/original.jpg?aki_policy=profile_x_medium,136,,,,,,,
+host_neighbourhood,object,339,3246,53,Allston-Brighton,375,,,,,,,
+host_listings_count,int64,0,3585.0,35,,,58.9023709902371,171.11966317940005,0.0,1.0,2.0,7.0,749.0
+host_total_listings_count,int64,0,3585.0,35,,,58.9023709902371,171.11966317940005,0.0,1.0,2.0,7.0,749.0
+host_verifications,object,0,3585,83,"['email', 'phone', 'reviews', 'jumio']",930,,,,,,,
+host_has_profile_pic,object,0,3585,2,t,3577,,,,,,,
+host_identity_verified,object,0,3585,2,t,2603,,,,,,,
+street,object,0,3585,1239,"Boylston Street, Boston, MA 02215, United States",64,,,,,,,
+neighbourhood,object,543,3042,30,Allston-Brighton,364,,,,,,,
+neighbourhood_cleansed,object,0,3585,25,Jamaica Plain,343,,,,,,,
+neighbourhood_group_cleansed,float64,3585,0.0,0,,,,,,,,,
+city,object,2,3583,38,Boston,3381,,,,,,,
+state,object,0,3585,1,MA,3585,,,,,,,
+zipcode,object,38,3547,43,02116,388,,,,,,,
+market,object,14,3571,4,Boston,3568,,,,,,,
+smart_location,object,0,3585,39,"Boston, MA",3381,,,,,,,
+country_code,object,0,3585,1,US,3585,,,,,,,
+country,object,0,3585,1,United States,3585,,,,,,,
+latitude,float64,0,3585.0,3585,,,42.34003172606542,0.024402551941651175,42.235941807706816,42.329994585582796,42.345200652691716,42.35468545650279,42.38998167884297
+longitude,float64,0,3585.0,3585,,,-71.08481755174338,0.03156464481694356,-71.17178882136898,-71.10508282460825,-71.07842855228066,-71.06215495192623,-71.00009991969033
+is_location_exact,object,0,3585,2,t,3080,,,,,,,
+property_type,object,3,3582,13,Apartment,2612,,,,,,,
+room_type,object,0,3585,3,Entire home/apt,2127,,,,,,,
+accommodates,int64,0,3585.0,14,,,3.0412831241283125,1.7789294170905887,1.0,2.0,2.0,4.0,16.0
+bathrooms,float64,14,3571.0,12,,,1.221646597591711,0.5014870653889488,0.0,1.0,1.0,1.0,6.0
+bedrooms,float64,10,3575.0,6,,,1.255944055944056,0.7530596402115356,0.0,1.0,1.0,2.0,5.0
+beds,float64,9,3576.0,11,,,1.6090604026845639,1.011744521630702,0.0,1.0,1.0,2.0,16.0
+bed_type,object,0,3585,5,Real Bed,3453,,,,,,,
+amenities,object,0,3585,3092,{},32,,,,,,,
+square_feet,float64,3529,56.0,37,,,858.4642857142857,608.8743104894686,0.0,415.0,825.0,1200.0,2400.0
+price,object,0,3585,324,$150.00,144,,,,,,,
+weekly_price,object,2693,892,243,"$1,000.00",48,,,,,,,
+monthly_price,object,2697,888,288,"$3,500.00",30,,,,,,,
+security_deposit,object,2243,1342,54,$100.00,299,,,,,,,
+cleaning_fee,object,1107,2478,79,$100.00,353,,,,,,,
+guests_included,int64,0,3585.0,13,,,1.4298465829846583,1.0567869534928824,0.0,1.0,1.0,1.0,14.0
+extra_people,object,0,3585,51,$0.00,2211,,,,,,,
+minimum_nights,int64,0,3585.0,29,,,3.1712691771269177,8.87413289157623,1.0,1.0,2.0,3.0,300.0
+maximum_nights,int64,0,3585.0,85,,,28725.83682008368,1670135.937685796,1.0,365.0,1125.0,1125.0,99999999.0
+calendar_updated,object,0,3585,38,today,833,,,,,,,
+has_availability,float64,3585,0.0,0,,,,,,,,,
+availability_30,int64,0,3585.0,31,,,8.649930264993026,10.435329950880984,0.0,0.0,4.0,15.0,30.0
+availability_60,int64,0,3585.0,61,,,21.833193863319387,21.860966480219926,0.0,0.0,16.0,40.0,60.0
+availability_90,int64,0,3585.0,91,,,38.5581589958159,33.15827222125825,0.0,0.0,37.0,68.0,90.0
+availability_365,int64,0,3585.0,348,,,179.34644351464436,142.1361796288128,0.0,19.0,179.0,325.0,365.0
+calendar_last_scraped,object,0,3585,1,2016-09-06,3585,,,,,,,
+number_of_reviews,int64,0,3585.0,178,,,19.04463040446304,35.5716582919979,0.0,1.0,5.0,21.0,404.0
+first_review,object,756,2829,975,2016-04-05,23,,,,,,,
+last_review,object,756,2829,404,2016-09-05,118,,,,,,,
+review_scores_rating,float64,813,2772.0,48,,,91.91666666666667,9.531685653472252,20.0,89.0,94.0,98.25,100.0
+review_scores_accuracy,float64,823,2762.0,8,,,9.43157132512672,0.9318632207017771,2.0,9.0,10.0,10.0,10.0
+review_scores_cleanliness,float64,818,2767.0,9,,,9.25804119985544,1.1689769373295449,2.0,9.0,10.0,10.0,10.0
+review_scores_checkin,float64,820,2765.0,8,,,9.64629294755877,0.7627532443950488,2.0,9.0,10.0,10.0,10.0
+review_scores_communication,float64,818,2767.0,7,,,9.646548608601373,0.7355070014929745,4.0,9.0,10.0,10.0,10.0
+review_scores_location,float64,822,2763.0,9,,,9.414042707202317,0.9034360234288117,2.0,9.0,10.0,10.0,10.0
+review_scores_value,float64,821,2764.0,9,,,9.16823444283647,1.0111164575854952,2.0,9.0,9.0,10.0,10.0
+requires_license,object,0,3585,1,f,3585,,,,,,,
+license,float64,3585,0.0,0,,,,,,,,,
+jurisdiction_names,float64,3585,0.0,0,,,,,,,,,
+instant_bookable,object,0,3585,2,f,2991,,,,,,,
+cancellation_policy,object,0,3585,4,strict,1582,,,,,,,
+require_guest_profile_picture,object,0,3585,2,f,3518,,,,,,,
+require_guest_phone_verification,object,0,3585,2,f,3348,,,,,,,
+calculated_host_listings_count,int64,0,3585.0,25,,,12.733891213389121,29.41507587406177,1.0,1.0,2.0,6.0,136.0
+reviews_per_month,float64,756,2829.0,644,,,1.970908448214916,2.120561457010628,0.01,0.48,1.17,2.72,19.15
