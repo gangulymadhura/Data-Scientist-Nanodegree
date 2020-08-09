@@ -28,6 +28,13 @@ This repo contains data and jupyter notebook for all analysis done for this data
 
 <h2>Key findings</h2>
 
+<h3>How do listing prices change across locations and time ?</h3>
+* Prices vary across locations, suburbs like Mattapan and Hyde Park are economical while neighbourhoods like Chinatown and Leather District that close to Downtown Boston are more expensive.
+* November to March is the off-season for tourism and business picks up and prices increase April onwards with July to octover being the peak season. 
+
+<h3> What are the main drivers of listing price ?</h3>
+
+
 
 
 
