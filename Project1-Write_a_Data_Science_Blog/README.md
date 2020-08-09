@@ -36,7 +36,7 @@ This repo contains data and jupyter notebook for all analysis done for this data
 <h3> What are the main drivers of listing price ?</h3>
 
 * Main drivers of price are room type, cleaning fee, no. of bedrooms, no. of beds, no. of bathrooms and location.
-* Amenities like TV, cable, heating, internet, pets allowed on property and elevator infleunce listing price.
+* Amenities like TV, cable, heating, internet, pets allowed on property and elevator influence listing price.
 
 <h3> Which features of a listings influence customer satisfaction the most ?</h3>
   
