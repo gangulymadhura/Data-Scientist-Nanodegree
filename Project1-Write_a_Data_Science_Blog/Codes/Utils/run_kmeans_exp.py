@@ -1,4 +1,15 @@
 def run_kmeans_exp(df,to_scale=True):
+	    '''
+    Runs KMEANS algorithm on data for different number of clusters and plots the within 
+    sum of squares and silhouette scores.
+
+    Args:
+    df (dataframe) - data on whcih KMEANS is run
+    to_scale (boolean) - True by default
+                         If False data is not scaled before running KMEANS
+
+    '''
+
     # Import KMeans
     from sklearn.cluster import KMeans
     from sklearn.metrics import silhouette_samples, silhouette_score
