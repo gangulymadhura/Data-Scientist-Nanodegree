@@ -127,6 +127,14 @@ def run_cv_scoring(X,y,model,scoring,cv=10):
             print('\n')
 
 def score(y_true,y_pred,score_method):
+    '''
+    computes scoring metric between actual and predictor features
+
+    y_true (numpy array or pandas series) - actuals
+    y_pred (numpy array or pandas series) - predicted
+    score_method (string) - scoring method
+    
+    '''
     from sklearn.metrics import mean_absolute_error
     from sklearn.metrics import mean_squared_error
     from sklearn.metrics import r2_score
