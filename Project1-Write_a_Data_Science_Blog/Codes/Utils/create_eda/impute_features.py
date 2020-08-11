@@ -7,6 +7,19 @@ def impute_cont_features(df,cont_varlist,cat_varlist):
 
     The missing values in the continuous feature is imputed with the median value within corresponding 
     categories of impute_cat_car
+
+    Args:
+    df (dataframe) - data
+    cont_varlist (list) - list of numeric column names
+    cat_varlist (list) - list of categorical column names
+
+    Returns:
+    df (dataframe) - data with imputed columns
+    
+    impute_df (dataframe) - dataframe with details on imputation - 
+    categorical feature used for imputation and corresponding F-test p value and KS test p-value
+    
+    high_missrate_varlist - list of features not imputed due to more than 90% miss-rate
  
     '''
     from scipy.stats import f_oneway
